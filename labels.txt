@@ -1,0 +1,4 @@
+0 Pullover
+1 Trinkflasche
+2 Federtasche
+3 Schuhe
